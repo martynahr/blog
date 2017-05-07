@@ -1,0 +1,54 @@
+
+/*
+ @Author: MartynaHr
+ */
+ 
+
+ 
+html, body {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+color: black; 
+ background-color: #FFF1D1;}
+
+ 			h1 {font-size: 45px; font-family: arial;}
+		  h2 {font-size: 22px; font-family: courier;}
+		  p {font-size: 17px; font-family: "times new roman"; }
+
+div {
+    border: 2px solid;
+border-color: 	#B0B0B0;
+background: #EFEFEF;
+    background-clip: padding-box;
+    padding: 15px;
+ border-bottom-width: 30px;
+font-size: 45px;
+font-family: arial;
+    align-content: center;
+margin: 30px;
+ border-bottom-left-radius: 3em;
+ border-bottom-right-radius: 3em;
+align: center;
+}
+
+image {
+    position:left;
+left:100px;
+}
+
+p{
+
+margin:25px;
+}
+
+div2 {line-height: 115px;
+    width: 1000px;
+    height: 5000px;
+font-size:45px;
+    background-color: #FF99CC;
+    box-shadow: 10px 10px 5px #888888;
+}
+ 
+#footer {line-height: 5px;
+font-family: ‘Helvetica’, ‘Arial’; margin: 10px 15pxcolor: grey;}
